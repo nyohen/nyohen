@@ -39,31 +39,4 @@ An on-call agent that finds why a microservice broke, then re-queries the teleme
 
 <sub>Both repos are private while I finish them. So far the AI step has only run on a stand-in model; real-model testing is next.</sub>
 
-### 💼 Experience
-
-**Junior Systems Developer**, MPAC · Apr 2025 – Oct 2026
-- Built a React investigation dashboard over AWS Redshift data with a staff AI engineer, plus an AWS QuickSight dashboard. Delivered both to the VP.
-- Rebuilt legacy sign-in with AWS Amplify and Cognito, adding multi-factor authentication.
-- Re-architected ArcGIS Online field mapping to fetch aliases through the Esri REST API.
-
-**Co-op Developer**, MPAC · Jan – Sep 2023
-- Automated the company-wide offboarding workflow with Python AWS Lambda functions and auto-created Jira Service Desk tickets.
-
-### 🛠 Toolkit
-**Languages** Python · TypeScript · JavaScript · SQL · HTML · CSS
-**Front end** React
-**Back end & data** FastAPI · REST APIs · AWS Redshift · SQLite
-**Cloud & DevOps** AWS Lambda · Cognito · Amplify · QuickSight · Docker · Kubernetes · GitHub Actions
-**AI systems** LangGraph agents · verification loops
-
-### 🎓 Education
-**York University**, Lassonde School of Engineering: BA, Specialized Honours in Digital Media (Development Stream) · Expected 2027
-**Seneca Polytechnic**: Advanced Diploma, Computer Programming & Analysis · 2020 – 2023 · President's Honour List
-
-### 😄 About me
-- 💬 Ask me about front-end and back-end development, AWS, or building AI tools you can trust
-- 📫 How to reach me: [Email](mailto:yohannesghebremesk@gmail.com) · [LinkedIn](https://www.linkedin.com/in/noel-yohannes)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak Italian and Tigrinya
-
 ---
