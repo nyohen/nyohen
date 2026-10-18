@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack Developer · Toronto</h3>
 
 <div align="center">
-    <a href="https://nyohen.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-nyohen.github.io-%23ff4b1f?style=flat-square" alt="Portfolio"></a>
+    <a href="https://noelyohannes.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-nyohen.github.io-%23ff4b1f?style=flat-square" alt="Portfolio"></a>
     <a href="https://www.linkedin.com/in/noel-yohannes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:yohannesghebremesk@gmail.com"><img src="https://img.shields.io/badge/Email-yohannesghebremesk%40gmail.com-%23393837?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
